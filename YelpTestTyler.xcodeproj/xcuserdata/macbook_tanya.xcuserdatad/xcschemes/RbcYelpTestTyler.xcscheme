@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "294434231CDB855F00B7A649"
-               BuildableName = "RbcYelpTestTyler.app"
-               BlueprintName = "RbcYelpTestTyler"
-               ReferencedContainer = "container:RbcYelpTestTyler.xcodeproj">
+               BuildableName = "YelpTestTyler.app"
+               BlueprintName = "YelpTestTyler"
+               ReferencedContainer = "container:YelpTestTyler.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "294434231CDB855F00B7A649"
-            BuildableName = "RbcYelpTestTyler.app"
-            BlueprintName = "RbcYelpTestTyler"
-            ReferencedContainer = "container:RbcYelpTestTyler.xcodeproj">
+            BuildableName = "YelpTestTyler.app"
+            BlueprintName = "YelpTestTyler"
+            ReferencedContainer = "container:YelpTestTyler.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "294434231CDB855F00B7A649"
-            BuildableName = "RbcYelpTestTyler.app"
-            BlueprintName = "RbcYelpTestTyler"
-            ReferencedContainer = "container:RbcYelpTestTyler.xcodeproj">
+            BuildableName = "YelpTestTyler.app"
+            BlueprintName = "YelpTestTyler"
+            ReferencedContainer = "container:YelpTestTyler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "294434231CDB855F00B7A649"
-            BuildableName = "RbcYelpTestTyler.app"
-            BlueprintName = "RbcYelpTestTyler"
-            ReferencedContainer = "container:RbcYelpTestTyler.xcodeproj">
+            BuildableName = "YelpTestTyler.app"
+            BlueprintName = "YelpTestTyler"
+            ReferencedContainer = "container:YelpTestTyler.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -24,7 +24,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		294434241CDB855F00B7A649 /* RbcYelpTestTyler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RbcYelpTestTyler.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		294434241CDB855F00B7A649 /* YelpTestTyler.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YelpTestTyler.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		294434281CDB855F00B7A649 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2944342A1CDB855F00B7A649 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		2944342B1CDB855F00B7A649 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -77,7 +77,7 @@
 		294434251CDB855F00B7A649 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				294434241CDB855F00B7A649 /* RbcYelpTestTyler.app */,
+				294434241CDB855F00B7A649 /* YelpTestTyler.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -137,9 +137,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		294434231CDB855F00B7A649 /* RbcYelpTestTyler */ = {
+		294434231CDB855F00B7A649 /* YelpTestTyler */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2944343B1CDB855F00B7A649 /* Build configuration list for PBXNativeTarget "RbcYelpTestTyler" */;
+			buildConfigurationList = 2944343B1CDB855F00B7A649 /* Build configuration list for PBXNativeTarget "YelpTestTyler" */;
 			buildPhases = (
 				BB0F7E40D45C948CAA6C9B47 /* Check Pods Manifest.lock */,
 				294434201CDB855F00B7A649 /* Sources */,
@@ -152,9 +152,9 @@
 			);
 			dependencies = (
 			);
-			name = RbcYelpTestTyler;
+			name = YelpTestTyler;
 			productName = RbcYelpTestTyler;
-			productReference = 294434241CDB855F00B7A649 /* RbcYelpTestTyler.app */;
+			productReference = 294434241CDB855F00B7A649 /* YelpTestTyler.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -171,7 +171,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 2944341F1CDB855F00B7A649 /* Build configuration list for PBXProject "RbcYelpTestTyler" */;
+			buildConfigurationList = 2944341F1CDB855F00B7A649 /* Build configuration list for PBXProject "YelpTestTyler" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -184,7 +184,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				294434231CDB855F00B7A649 /* RbcYelpTestTyler */,
+				294434231CDB855F00B7A649 /* YelpTestTyler */,
 			);
 		};
 /* End PBXProject section */
@@ -378,7 +378,7 @@
 				INFOPLIST_FILE = RbcYelpTestTyler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rbc.RbcYelpTestTyler;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = YelpTestTyler;
 			};
 			name = Debug;
 		};
@@ -390,14 +390,14 @@
 				INFOPLIST_FILE = RbcYelpTestTyler/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.rbc.RbcYelpTestTyler;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = YelpTestTyler;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		2944341F1CDB855F00B7A649 /* Build configuration list for PBXProject "RbcYelpTestTyler" */ = {
+		2944341F1CDB855F00B7A649 /* Build configuration list for PBXProject "YelpTestTyler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				294434391CDB855F00B7A649 /* Debug */,
@@ -406,7 +406,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2944343B1CDB855F00B7A649 /* Build configuration list for PBXNativeTarget "RbcYelpTestTyler" */ = {
+		2944343B1CDB855F00B7A649 /* Build configuration list for PBXNativeTarget "YelpTestTyler" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2944343C1CDB855F00B7A649 /* Debug */,
